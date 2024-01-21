@@ -5,4 +5,5 @@
 
 This repository contains a list of the relevant resources on graph foundation models. 
 
-- [AAAI 2021] **A Generalized Neural Diffusion Framework on Graphs** [[Paper](https://arxiv.org/abs/2312.08616)], [Code]
+- [AAAI 2024] **A Generalized Neural Diffusion Framework on Graphs** [[Paper](https://arxiv.org/abs/2312.08616)], [Code]
+- [MM 2023] **Self-Contrastive Graph Diffusion Network** [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611815)], [Code]
