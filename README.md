@@ -5,5 +5,7 @@
 
 This repository contains a list of the relevant resources on graph Diffusion models. 
 - [Arvix] **Dyngraph2vec: Capturing Network Dynamics using Dynamic Graph Representation Learning** [[Paper](https://arxiv.org/pdf/1809.02657)], [Code]
+- [Arvix] **Spatio-Temporal Graph Neural Networks: A Survey** [[Paper](https://arxiv.org/pdf/2301.10569)], [Code]
+- [Arvix] **A Survey on Graph Neural Networks for TimeSeries: Forecasting, Classification, Imputation, and Anomaly Detection** [[Paper](https://arxiv.org/pdf/2307.03759)], [Code]
 - [Arvix] **Deep learning for dynamic graphs: models and benchmarks** [[Paper](https://arxiv.org/pdf/2307.06104)], [Code]
 
